@@ -7,6 +7,7 @@ public class DenemeSourcetree {
         System.out.println("pull request nasil yapilir");
         System.out.println("degisikligi web sitesinde yaptim");
         System.out.println("degisikligi localimde yaptim");
+        System.out.println("hasan branchi deneme1");
         
     }
 }
